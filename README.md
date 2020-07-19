@@ -34,7 +34,7 @@ Refer the demo below on how to interact with the bot.
 <br/>
 <br/>
 
-# DISCO Bot Demo
+# Bot Demo
 This is a demo of the a local DISCO chat bot in Telegram (on iPhone). The bot backend itself is running on a Raspberry Pi 3.
 <br/>
 <br/>
