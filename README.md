@@ -5,11 +5,27 @@ For more details on the idea and inspiration behind this bot is at my [**blog**]
 <br/>
 <br/>
 
+# Technology
+## Software
+1. Python - as the programming language and runtime.
+2. Chatterbot - as the dialog engine for the FAQ. While other dialog engines are available, this has been used  as it can run in a low-spec machine such as a Raspberry Pi.
+3. Pandas - to process the data.
+4. Matplotlib - to generate the charts.
+5. Google Spreadsheets - to capture the data. Formulae are created in spreadsheet so that the calculations are done 'at data source' rather than in the bot.
+6. Google Drive API - to download the spreadsheet to a local file cache.
+7. Telegram - to create the bot.
+
+## Hardware
+1. Raspberry Pi 3 - to run the Telegram bot 'server'.
+<br/>
+<br/>
+
 # Installation Instructions
 1. Install python 3.6.4 or above. The installers can be downloaded from the [python website](https://www.python.org/downloads/).
 <br/>
 
 2. Download the code from this Github repository. Run "pip3 install -r requirements.txt" to install all the required packages.
+<br/>
 
 3. Create a google spreadsheet using this [file](https://github.com/rajanm/covid-chat-bot/blob/master/covid-data-sample-google-sheet.csv) as a sample.
 <br/>
