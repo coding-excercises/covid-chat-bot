@@ -5,23 +5,29 @@ For more details on the idea and inspiration behind this bot is at my [**blog**]
 <br/>
 
 # Installation Instructions
-
 1. Install python 3.6.4 or above. The installers can be downloaded from the [python website](https://www.python.org/downloads/).
 <br/>
+
 2. Create a google spreadsheet using this [file](https://github.com/rajanm/covid-chat-bot/blob/master/covid-data-sample-google-sheet.csv) as a sample.
 <br/>
+
 3. Follow instructions from [here](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html) to
 setup a google service account and give access to the google spreadsheet. Download the google service account credentials as a JSON file.
 <br/>
+
 4. Configure and run the spreadsheet.sh or spreadsheet.bat file from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
 <br/>
-5. This will download and store a file called 'covid.csv' locally.
+
+5. This will download and store a file called **covid.csv** locally.
 <br/>
+
 6. Modify the [chat_trainer](https://github.com/rajanm/covid-chat-bot/blob/master/chat_query_trainer.py) and run this program. This will create a 
-'db.sqllite3' database locally that contains all the trained respnses for the Covid FAQ.
+**db.sqllite3** database locally that contains all the trained respnses for the Covid FAQ.
 <br/>
+
 7. Follow the steps [here](https://core.telegram.org/bots) to create a bot in Telegram.
 <br/>
+
 8. Finally, configure and run the covidbot.sh and covid.bat from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
 <br/>
 <br/>
@@ -29,8 +35,7 @@ setup a google service account and give access to the google spreadsheet. Downlo
 # DISCO Bot Demo
 This is a demo of the a local DISCO chat bot in Telegram (on iPhone). The bot backend itself is running on a Raspberry Pi 3.
 <br/>
-<br/>
 
 <p align="center">
-  <img width="350" height="600" src="https://github.com/rajanm/covid-chat-bot/blob/master/Mobile-Telegram-Covid-Chat-Bot.gif">
+  <img width="300" height="600" src="https://github.com/rajanm/covid-chat-bot/blob/master/Mobile-Telegram-Covid-Chat-Bot.gif">
 </p>
