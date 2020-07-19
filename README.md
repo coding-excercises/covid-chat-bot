@@ -3,7 +3,7 @@ This is an example of hyper local, crowd sourced and data driven chat bot for Co
 
 For more details on the idea and inspiration behind this bot is at my [**blog**](https://www.rajansview.com/2020/07/a-hyper-local-crowd-sourced-data-driven.html).
 
-# Covid Chat Bot Demo
-This is a demo of the local covid chat bot in Telegram (on iPhone). The bot itself is running on a Raspberry Pi 3.
+# DISCO Bot Demo
+This is a demo of the a local DISCO chat bot in Telegram (on iPhone). The bot backend itself is running on a Raspberry Pi 3.
 
 ![Covid Chat Bot Demo](https://github.com/rajanm/covid-chat-bot/blob/master/Mobile-Telegram-Covid-Chat-Bot.gif)
