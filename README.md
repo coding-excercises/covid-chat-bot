@@ -9,27 +9,29 @@ For more details on the idea and inspiration behind this bot is at my [**blog**]
 1. Install python 3.6.4 or above. The installers can be downloaded from the [python website](https://www.python.org/downloads/).
 <br/>
 
-2. Create a google spreadsheet using this [file](https://github.com/rajanm/covid-chat-bot/blob/master/covid-data-sample-google-sheet.csv) as a sample.
+2. Download the code from this Github repository. Run "pip3 install -r requirements.txt" to install all the required packages.
+
+3. Create a google spreadsheet using this [file](https://github.com/rajanm/covid-chat-bot/blob/master/covid-data-sample-google-sheet.csv) as a sample.
 <br/>
 
-3. Follow instructions from [here](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html) to
+4. Follow instructions from [here](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html) to
 setup a google service account and give access to the above google spreadsheet. Download the google service account credentials as a JSON file.
 <br/>
 
-4. Configure and run the spreadsheet.sh (for Linux) or spreadsheet.bat (for Windows) file from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
+5. Configure and run the spreadsheet.sh (for Linux) or spreadsheet.bat (for Windows) file from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
 <br/>
 
-5. This will download and store a file called **covid.csv** locally.
+6. This will download and store a file called **covid.csv** locally.
 <br/>
 
-6. Modify the [chat_trainer](https://github.com/rajanm/covid-chat-bot/blob/master/chat_query_trainer.py) and run this program. This will create a 
+7. Modify the [chat_trainer](https://github.com/rajanm/covid-chat-bot/blob/master/chat_query_trainer.py) and run this program. This will create a 
 **db.sqllite3** database locally that contains all the trained respnses for the Covid FAQ.
 <br/>
 
-7. Follow the steps [here](https://core.telegram.org/bots) to create a bot in Telegram.
+8. Follow the steps [here](https://core.telegram.org/bots) to create a bot in Telegram.
 <br/>
 
-8. Finally, configure and run the covidbot.sh (for Linux) or covid.bat (for Windows) from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
+9. Finally, configure and run the covidbot.sh (for Linux) or covid.bat (for Windows) from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
 Refer the demo below on how to interact with the bot.
 <br/>
 <br/>
