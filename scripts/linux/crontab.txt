@@ -1,0 +1,2 @@
+0 * * * * /home/pi/python/<your path>/spreadsheet.sh
+@reboot  /home/pi/python/<your path>/covidbot.sh &
