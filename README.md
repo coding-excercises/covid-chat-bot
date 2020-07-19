@@ -5,6 +5,7 @@ For more details on the idea and inspiration behind this bot is at my [**blog**]
 <br/>
 
 # Installation Instructions
+
 1. Install python 3.6.4 or above. The installers can be downloaded from the [python website](https://www.python.org/downloads/).
 <br/>
 2. Create a google spreadsheet using this [file](https://github.com/rajanm/covid-chat-bot/blob/master/covid-data-sample-google-sheet.csv) as a sample.
@@ -24,6 +25,7 @@ setup a google service account and give access to the google spreadsheet. Downlo
 8. Finally, configure and run the covidbot.sh and covid.bat from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
 <br/>
 <br/>
+
 # DISCO Bot Demo
 This is a demo of the a local DISCO chat bot in Telegram (on iPhone). The bot backend itself is running on a Raspberry Pi 3.
 <br/>
