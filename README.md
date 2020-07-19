@@ -6,4 +6,6 @@ For more details on the idea and inspiration behind this bot is at my [**blog**]
 # DISCO Bot Demo
 This is a demo of the a local DISCO chat bot in Telegram (on iPhone). The bot backend itself is running on a Raspberry Pi 3.
 
-![Covid Chat Bot Demo](https://github.com/rajanm/covid-chat-bot/blob/master/Mobile-Telegram-Covid-Chat-Bot.gif)
+<p align="center">
+  <img width="300" height="600" src="https://github.com/rajanm/covid-chat-bot/blob/master/Mobile-Telegram-Covid-Chat-Bot.gif">
+</p>
