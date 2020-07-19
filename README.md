@@ -13,7 +13,7 @@ For more details on the idea and inspiration behind this bot is at my [**blog**]
 <br/>
 
 3. Follow instructions from [here](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html) to
-setup a google service account and give access to the google spreadsheet. Download the google service account credentials as a JSON file.
+setup a google service account and give access to the above google spreadsheet. Download the google service account credentials as a JSON file.
 <br/>
 
 4. Configure and run the spreadsheet.sh (for Linux) or spreadsheet.bat (for Windows) file from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
@@ -30,6 +30,7 @@ setup a google service account and give access to the google spreadsheet. Downlo
 <br/>
 
 8. Finally, configure and run the covidbot.sh (for Linux) or covid.bat (for Windows) from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
+Refer the demo below on how to interact with the bot.
 <br/>
 <br/>
 
