@@ -15,7 +15,7 @@ For more details on the idea and inspiration behind this bot is at my [**blog**]
 setup a google service account and give access to the google spreadsheet. Download the google service account credentials as a JSON file.
 <br/>
 
-4. Configure and run the spreadsheet.sh or spreadsheet.bat file from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
+4. Configure and run the spreadsheet.sh (for Linux) or spreadsheet.bat (for Windows) file from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
 <br/>
 
 5. This will download and store a file called **covid.csv** locally.
@@ -28,7 +28,7 @@ setup a google service account and give access to the google spreadsheet. Downlo
 7. Follow the steps [here](https://core.telegram.org/bots) to create a bot in Telegram.
 <br/>
 
-8. Finally, configure and run the covidbot.sh and covid.bat from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
+8. Finally, configure and run the covidbot.sh (for Linux) or covid.bat (for Windows) from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
 <br/>
 <br/>
 
