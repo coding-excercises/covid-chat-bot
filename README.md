@@ -16,7 +16,7 @@ For more details on the idea and inspiration behind this bot is at my [**blog**]
 7. Telegram - to create the bot.
 
 ## Hardware
-1. Raspberry Pi 3 - to run the Telegram bot 'server'.
+1. Raspberry Pi 3 - to run the Telegram bot 'server'. Alternatively, it could be run on a desktop or laptop or server or cloud.
 <br/>
 <br/>
 
