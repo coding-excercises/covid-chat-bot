@@ -3,6 +3,7 @@ This is an example of hyper local, crowd sourced and data driven chat bot for Co
 
 For more details on the idea and inspiration behind this bot is at my [**blog**](https://www.rajansview.com/2020/07/a-hyper-local-crowd-sourced-data-driven.html).
 <br/>
+<br/>
 
 # Installation Instructions
 1. Install python 3.6.4 or above. The installers can be downloaded from the [python website](https://www.python.org/downloads/).
@@ -34,6 +35,7 @@ setup a google service account and give access to the google spreadsheet. Downlo
 
 # DISCO Bot Demo
 This is a demo of the a local DISCO chat bot in Telegram (on iPhone). The bot backend itself is running on a Raspberry Pi 3.
+<br/>
 <br/>
 
 <p align="center">
