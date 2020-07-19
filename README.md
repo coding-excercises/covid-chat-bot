@@ -17,5 +17,5 @@ This is a demo of the a local DISCO chat bot in Telegram (on iPhone). The bot ba
 <br/>
 
 <p align="center">
-  <img width="400" height="600" src="https://github.com/rajanm/covid-chat-bot/blob/master/Mobile-Telegram-Covid-Chat-Bot.gif">
+  <img width="350" height="600" src="https://github.com/rajanm/covid-chat-bot/blob/master/Mobile-Telegram-Covid-Chat-Bot.gif">
 </p>
