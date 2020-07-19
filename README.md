@@ -3,7 +3,6 @@ This is an example of hyper local, crowd sourced and data driven chat bot for Co
 
 For more details on the idea and inspiration behind this bot is at my [**blog**](https://www.rajansview.com/2020/07/a-hyper-local-crowd-sourced-data-driven.html).
 <br/>
-<br/>
 
 # Technology
 ## Software
@@ -17,7 +16,6 @@ For more details on the idea and inspiration behind this bot is at my [**blog**]
 
 ## Hardware
 1. Raspberry Pi 3 - to run the Telegram bot 'server'. Alternatively, it could be run on a desktop or laptop or server or cloud.
-<br/>
 <br/>
 
 # Installation Instructions
@@ -33,6 +31,7 @@ setup a google service account and give access to the above google spreadsheet. 
 8. Follow the steps [here](https://core.telegram.org/bots) to create a bot in Telegram.
 9. Finally, configure and run the covidbot.sh (for Linux) or covid.bat (for Windows) from [here](https://github.com/rajanm/covid-chat-bot/tree/master/scripts).
 Refer the demo below on how to interact with the bot.
+<br/>
 
 # Bot Demo
 This is a demo of the a local DISCO chat bot in Telegram (on iPhone). The bot backend itself is running on a Raspberry Pi 3.
