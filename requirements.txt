@@ -14,7 +14,7 @@ gspread==3.6.0
 httplib2==0.18.1
 idna==2.10
 importlib-metadata==1.7.0
-joblib==0.16.0
+joblib==1.2.0
 kiwisolver==1.2.0
 mathparse==0.1.2
 matplotlib==3.2.2
